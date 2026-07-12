@@ -110,11 +110,12 @@ This project helped in understanding:
 ---
 ## 🌐 Live Demo
 
-[View Project]()
+[View Project]( https://sangee2705.github.io/-StyleHive/)
 
 ## 🔗 GitHub Repository
 
-[View Source Code]()
+[View Source Code](https://github.com/sangee2705/-StyleHive
+)
 
 ## 👩‍💻 Developed By
 
