@@ -108,6 +108,13 @@ This project helped in understanding:
 - UI Design Principles
 
 ---
+## 🌐 Live Demo
+
+[View Project]()
+
+## 🔗 GitHub Repository
+
+[View Source Code]()
 
 ## 👩‍💻 Developed By
 
